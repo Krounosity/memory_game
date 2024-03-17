@@ -8,4 +8,4 @@ This game has been created as a task for the first year web developing members o
   - If the cards match, they stay matched, else they turn back again, staying in the same place.
   - If you match all the cards, you win!
 
-[This is the link to the website](https://krounosity.github.io/memory_game)
+[This is the link to the website](https://krounosity.github.io/Memory_Game)
