@@ -21,4 +21,4 @@ This project is built with HTML, CSS, and JavaScript, providing an interactive e
 - (Optional) LocalStorage (to save the best score or game state)
 
 ## Demo
-You can play the live demo [here](#) (https://krounosity.github.io/Memory_Game/).
+You can play the live demo [here](https://krounosity.github.io/Memory_Game/).
